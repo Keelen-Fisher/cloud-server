@@ -17,6 +17,6 @@
 
 ## Resources
 
-[Link to GUI Deployed:](http://cloudsever-env.eba-s2ujsh4k.us-west-1.elasticbeanstalk.com/)
+- [Link to GUI Deployed:](http://cloudsever-env.eba-s2ujsh4k.us-west-1.elasticbeanstalk.com/)
 
-[Link to CLI Deployed:]()
+- [Link to CLI Deployed:](http://cloud-server-dev.us-west-2.elasticbeanstalk.com/)
